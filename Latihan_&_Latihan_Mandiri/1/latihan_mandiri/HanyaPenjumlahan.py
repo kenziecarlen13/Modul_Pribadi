@@ -1,4 +1,4 @@
-from latihan_mandiri import cek
+# from latihanMandiri import cek
 #gunakan variabel hasil untuk menampung hasil akhir 
 
 bil1 = 5

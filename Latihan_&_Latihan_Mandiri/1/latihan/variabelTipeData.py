@@ -18,7 +18,7 @@ if __name__=="__main__":
 
 
 
-# gausa peduliini code ini
+# gausa peduliin line code ini
     import cek
     import subprocess
     result = subprocess.run(["python", "cek.py"], capture_output=True, text=True)
