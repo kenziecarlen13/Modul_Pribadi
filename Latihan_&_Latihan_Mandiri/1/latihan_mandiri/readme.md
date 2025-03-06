@@ -16,3 +16,6 @@
 `f(x) = 2x^2 + k/2`
 
 <p>x adalah inputan sedangkan k adalah konstanta bernilai 5 <br>output yang diharapkan hanya hasil dari fungsi.</p>
+
+
+## Semua output yang diharapkan disimpan di dalam variabel hasil 
